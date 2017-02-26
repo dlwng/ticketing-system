@@ -1,0 +1,47 @@
+* {
+	font-family: "arial", sans-serif;
+	text-align: center;
+}
+
+body {
+	background-color: #581845;
+}
+
+h1 {
+	background-color: white;
+	width: 200px;
+	margin:auto;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.login {
+	height:150px;
+	width:200px;
+	margin:auto;
+	border:1px white solid;
+	padding: 10px;
+	background-color: white;
+	font-size: 14px;
+}
+
+.user {
+	padding-bottom: 5px;
+}
+
+#footer {
+	background-color: white;
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 12px;
+}
+
+a:link {
+	color: #FFC300;
+}
+
+a:visited {
+	color: #DAF7A6;
+}

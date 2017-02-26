@@ -1,0 +1,5 @@
+dorothy#password#uva.cs4501@gmail.com#user
+spencer#carrots#uva.cs4501@gmail.com#admin
+rohan#hey#uva.cs4501@gmail.com#user
+haley#wahoo#uva.cs4501@gmail.com#admin
+vamshi#yes#uva.cs4501@gmail.com#user
