@@ -1,2 +1,2 @@
 # ticketing-system
-a ticketing system for computer problems -- a database system where you can submit problems about your computer. the system stores the tickets and contains a user and admin feature.
+This is a ticketing system for computer problems that I developed to learn PHP, jQuery, JavaScript, and AJAX. This system uses a SQL database system where you can submit problems about your computer. The system stores the tickets and contains a user and admin feature. With the user and admin feature, the users are only able to submit ticket problems while the admins are able to view all current tickets and assign tickets. To view the system, initiate with the "initME.php" file.
